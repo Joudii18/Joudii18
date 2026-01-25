@@ -2,7 +2,7 @@
 #### Hello there! ✦
 I'm Joud, a visionist & a software engineer. 
 
-I study sofware enginnering @KFUPM and I enjoy building tech products.
+I study software enginnering @KFUPM and I enjoy building tech products.
 
 When I am not programming, you can find me video gaming :)
 
